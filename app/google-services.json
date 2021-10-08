@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "389917179444",
+    "project_id": "androidavanzado3",
+    "storage_bucket": "androidavanzado3.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:389917179444:android:c605c17859bed250471461",
+        "android_client_info": {
+          "package_name": "com.bedu.auth"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "389917179444-1k6r3i76nci4oiep9l3pc39n7qaj5d2r.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.bedu.auth",
+            "certificate_hash": "e245e859738faf9860fefcfe8b5479e589540373"
+          }
+        },
+        {
+          "client_id": "389917179444-ovpuubmslau3e5cv5kr228jf8hjjvhdj.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBsmLdjhr0XzjThX4AyRfLlrNxKzuKw8sM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "389917179444-ovpuubmslau3e5cv5kr228jf8hjjvhdj.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
